@@ -10,8 +10,24 @@ I am a Junior Developer and a student of Computer Science at the Poznań Univeri
 
 
 ## GitHub Stats 🤖
-![Endrju00's Stats](https://github-readme-stats.vercel.app/api?username=Endrju00&theme=tokyonight&show_icons=true&hide_border=false&count_private=false) ![Endrju00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Endrju00&theme=tokyonight&hide_border=false)
-
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Endrju00&theme=tokyonight&show_icons=true&hide_border=false&count_private=false"
+          alt="GitHub Stats"
+         />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=Endrju00&theme=tokyonight&hide_border=false"
+          alt="GitHub Stats"
+         />
+      </td>
+    </tr>
+  </thead>
+</table>
 
 ## Contact Me ✉️
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrzej-kapczynski/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16608706/andrzej-kapczyński)[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail" />](mailto:andrzej.kapczynski21@gmail.com)<br>
