@@ -1,9 +1,8 @@
 ## Hello World 👋
-I am a developer and a student of Computer Science at the Poznań Univeristy of Technology.
-- 🚀 Working on mobile projects using `Dart` and `Flutter`.
-- 🔭 Working on backend projects using `Python` and `Django`.
-- 🌱 Learning technologies connected with the web and mobile applications.
-- 👨🏼‍💻 Received a Bachelor of Engineering in Computer Science degree from the Poznań University of Technology.
+I am a Moblie Developer 🤓
+- 🚀 **Current Focus:** Working on innovative mobile projects using Dart and Flutter.
+- 🌱 **Continuous Learning:** Enhancing my skills in technologies related to mobile and web development.
+- 🎓 **Academic Background:** Received a Master of Science in Computer Science from the Poznań University of Technology.
 
 ## Tech Stack 🦾📱🖥️
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
