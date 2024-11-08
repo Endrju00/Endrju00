@@ -22,10 +22,10 @@ I am a Moblie Developer 🤓
       </td>
       <td>
         <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=Endrju00&theme=tokyonight&hide_border=true"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Endrju00&theme=tokyonight"
           alt="GitHub Stats"
          />
-      </td>
+      </td> 
     </tr>
   </thead>
 </table>
