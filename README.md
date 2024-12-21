@@ -26,12 +26,6 @@ I am a Moblie Developer 🤓
           alt="GitHub Stats"
          />
       </td>
-      <td>
-        <img
-          src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Endrju00&theme=tokyonight"
-          alt="GitHub Stats"
-         />
-      </td> 
     </tr>
   </thead>
 </table>
