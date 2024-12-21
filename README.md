@@ -25,6 +25,12 @@ I am a Moblie Developer 🤓
           src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Endrju00&theme=tokyonight"
           alt="GitHub Stats"
          />
+      </td>
+      <td>
+        <img
+          src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Endrju00&theme=tokyonight"
+          alt="GitHub Stats"
+         />
       </td> 
     </tr>
   </thead>
