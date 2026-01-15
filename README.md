@@ -11,24 +11,9 @@ I am a Moblie Developer 🤓
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## GitHub Stats 🤖
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <thead>
-    <tr>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Endrju00&theme=tokyonight"
-          alt="GitHub Stats"
-         />
-      </td>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Endrju00&theme=tokyonight"
-          alt="GitHub Stats"
-         />
-      </td>
-    </tr>
-  </thead>
-</table>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Endrju00&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Endrju00&theme=transparent) |
+| - | - |
+
 
 ## Contact Me ✉️
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:andrzej.kapczynski21@gmail.com)[<img align="left" alt="linked-in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrzej-kapczynski/)<br>
